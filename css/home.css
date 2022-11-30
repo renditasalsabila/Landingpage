@@ -1,0 +1,56 @@
+body {
+    background-color: yellow;
+}
+.home {
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(255, 204, 1, 0.842);
+}
+.menu {
+    display: flex;
+}
+.logo {
+    margin-right: 40px;
+}
+.bar {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.article {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 204, 1, 0.842);
+}
+.judul {
+    text-align: center;
+}
+.list {
+    border-radius: 15px;
+    text-align: center;
+    width: max-content;
+    margin-left: 520px;
+}
+.makanan {
+    width: 60%;
+}
+.video {
+    width: max-content;
+    margin-left: 350px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 15px;
+}
+.footer {
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.icons {
+    width: 30px;
+}

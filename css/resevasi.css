@@ -1,0 +1,20 @@
+body {
+    background-color: yellow;
+}
+.home {
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(255, 204, 1, 0.842);
+}
+.menu {
+    display: flex;
+}
+.logo {
+    margin-right: 40px;
+}
+.bar {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
